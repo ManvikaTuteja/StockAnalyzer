@@ -117,7 +117,7 @@ class stockanalyzer:
 
         plt.show()
 
-        print("Simple Moving Averages (SMAs) are technical indicators used in stock trading to gauge momentum and identify trends. They are calculated by averaging closing prices over a set period, with shorter periods reflecting short-term trends and longer periods showing long-term trends. When a stock price is above its SMA, it's considered to be in an uptrend, while a price below the SMA indicates a downtrend. Crossovers of the price and SMA can be used as potential buy and sell signals, but it's crucial to remember that SMAs are lagging indicators and should be used in conjunction with other technical analysis methods for a more comprehensive assessment.")
+        print("Simple Moving Averages (SMAs) are technical indicators used in trading to find momentum and trends. They are average of closing prices over a period, with short-term trends for short term and long-term trends for longer term. it is an uptrend when a stock price is above its SMA, and vice versa.")
 
         print("\n-----------------------------------------------------------------------------------------------------------\n")
 
@@ -145,7 +145,7 @@ class stockanalyzer:
 
         plt.show()
 
-        print("Exponential Moving Averages (EMA) are a technical analysis tool that smooths out price data, making it easier to identify trends and potential entry and exit points. Unlike the Simple Moving Average (SMA), which assigns equal weight to all data points, EMA gives more weight to recent prices, providing a more responsive indicator. To use EMAs, calculate the initial value using a standard SMA formula, then use subsequent EMAs to calculate new values. Higher EMA values indicate stronger trends, while falling EMAs suggest downtrends. Traders can use EMAs as dynamic support and resistance levels, entering long positions when prices rise above the EMA and exiting when they fall below. Additionally, crossovers of multiple EMAs with different periods can signal potential trend changes. However, remember that EMAs are lagging indicators and should be used in conjunction with other technical analysis tools for confirmation.")
+        print("Exponential Moving Averages (EMA) helps smooth out price data, which helps to identify trends and potential entry and exit points. EMA puts more weightage on recent prices, to make it an even better responsive indicator than SMA. Stronger trends are indicated by higher EMAs, while lower EMAs suggest downtrends. Crossovers of varied EMAs with different periods, signals a potential change in trends.")
 
         print("\n-----------------------------------------------------------------------------------------------------------\n")
 
