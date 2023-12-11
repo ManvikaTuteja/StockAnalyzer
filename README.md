@@ -1,1 +1,1 @@
-# StockPy
+# StockAnalyzer
