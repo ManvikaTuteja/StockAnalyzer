@@ -172,7 +172,7 @@ class stockanalyzer:
 
         plt.show()
 
-        print("The Relative Strength Index (RSI) is a technical indicator used in stock trading to measure the momentum of price changes. It oscillates between 0 and 100, with levels above 70 typically indicating overbought conditions and potential sell signals, while levels below 30 suggest oversold conditions and potential buy signals. RSI can also be used to identify divergences, where the price movement does not match the RSI, which can be a sign of a potential trend reversal. However, it is important to note that RSI is just one tool and should not be used in isolation when making investment decisions.")
+        print("The Relative Strength Index (RSI) measures the momentum of price changes. It oscillates between 0 and 100. When levels are above 70 it indicates overbought conditions i.e. potential sell signals, with levels below 30 indicating oversold conditions i.e. potential buy signals. it is also used to identify divergences. RSI is just one of the tools would be advised not to be used on its own when making investment decisions.")
 
         print("\n-----------------------------------------------------------------------------------------------------------\n")
 
