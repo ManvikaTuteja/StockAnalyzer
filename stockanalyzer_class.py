@@ -202,7 +202,7 @@ class stockanalyzer:
 
         plt.show()
 
-        print("The MACD (Moving Average Convergence Divergence) indicator helps identify trends and potential buy/sell signals in stock trading. It works by calculating the difference between two moving averages, showing momentum and trend direction. Traders use MACD crossovers, divergences, and histogram analysis to inform their decisions. A crossover above zero is considered bullish, while below zero is bearish. Additionally, a MACD line turning up from below zero indicates a potential buy signal. Remember, MACD is best used with daily periods and its traditional settings of 26/12/9.")
+        print("The Moving Average Convergence Divergence indicator is used to identify trends and could be used as potential buy/sell signals. It is found by calculating the difference between two moving averages, which shows momentum of the stock & direction of the trend. MACD, divergences, crossovers, and histogram analysis is used to make a decisions. A crossover below zero is considered bearish, while above zero is bullish. Additionally, a MACD line turning up from below zero indicates a potential buy sign")
 
         print("\n-----------------------------------------------------------------------------------------------------------\n")
 
@@ -236,7 +236,7 @@ class stockanalyzer:
 
         plt.show()
 
-        print("Bollinger Bands are three lines plotted around the price of a stock, helping traders gauge volatility and potential price reversals. The middle line is a moving average, while the upper and lower lines are two standard deviations away. When prices touch the upper band, it suggests the stock may be overbought, and vice versa for the lower band. Traders can use Bollinger Bands to identify potential entry and exit points, but remember, they are not foolproof and should be used alongside other technical indicators and fundamental analysis for well-rounded trading decisions.")
+        print("Bollinger Bands is the area bound around the stock price line, to help indicate volatility & reversal of price reversals. The middle line is a moving average, while the upper and lower lines are single standard deviation away from price line. When prices touch the upper band, it suggests the stock may be overbought, and vice versa for the lower band.")
 
         print("\n-----------------------------------------------------------------------------------------------------------\n")
 
